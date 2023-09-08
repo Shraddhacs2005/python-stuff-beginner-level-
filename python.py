@@ -3,8 +3,8 @@ msg = "hello world !"
 print (msg)
 msg = "I am the best in the world"
 print (msg)
-first_name = 'Lee'
-last_name = "Donghae"
+first_name = 'kim'
+last_name = "kardashian"
 full_name = first_name + ' ' + last_name
 print (full_name)
 day = "04"
@@ -34,15 +34,14 @@ first_name1 = "Jasmine"
 last_name1 = "Park"
 full_name1 = first_name1 + " " + last_name1
 print (full_name1)
-msg = "I am a proud kpop and kdrama fan"
+msg = "I am a good person"
 print (msg)
-lost = full_name1 + " <3 " + full_name
+lost = full_name1 + " and " + full_name
 print (lost)
 day = "22"
 month = "06"
 year = "2020"
 date = day + "-" + month + "-" + year
 print (date)
-msg = "Today was Lee Minho's birthday"
+msg = "Today was my birthday"
 print (msg)
-msg = ""
