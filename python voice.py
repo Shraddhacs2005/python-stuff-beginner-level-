@@ -1,6 +1,6 @@
 from gtts import gTTS
 import os
-mytext = 'fufufuffufufufufuufuffufufufufufufuffufufufuffufufufufufufufufufufurrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrfufufufufufufufufuffuufufufufufrrrrrrrrrrrrrrrrrrrrrrrrrrrrfufufufufuffufuuffufufurrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrfufufuffufuufufufufufufufufufufufufurrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr'
+mytext = 'hello there'
 language = 'en'
 myobj = gTTS(text=mytext, lang=language, slow = False)
 myobj.save("t.mp3")
