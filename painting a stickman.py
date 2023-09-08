@@ -16,3 +16,4 @@ pyautogui.moveTo(780,480)
 pyautogui.dragTo(800,620)
 pyautogui.moveTo(780,480)
 pyautogui.dragTo(800,320)
+# executed by identifying the pixel location (manually) and moving the cursor using python
